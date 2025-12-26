@@ -12,6 +12,7 @@ O programa recebe três valores:
 Com esses valores, ele preenche o array e exibe o índice e o valor.
 
 ## Exemplo de execução
+```bash
 javac InitArray.java
 java InitArray3.InitArray 5 10 2
 
